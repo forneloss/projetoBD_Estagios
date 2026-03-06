@@ -1,3 +1,7 @@
+O projeto consiste em 3 portais web-based integrados com uma base de dados.
+
+
+
 Portal Administrador:
 
 
